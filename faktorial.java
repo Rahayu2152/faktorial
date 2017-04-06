@@ -26,3 +26,4 @@ class ketupat {
     }
   }
 }
+//telah terubahh hehehe//
